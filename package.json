@@ -1,7 +1,7 @@
 {
   "name": "chirashi-breakpoints",
   "version": "1.0.0",
-  "description": "template for chirashis' plugins",
+  "description": "Breakpoints manager and listener.",
   "keywords": [
     "DOM",
     "events"
